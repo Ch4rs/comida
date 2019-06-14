@@ -2,6 +2,7 @@
 //este codigo es para iniciar sesion :D
   
 //segunda modificacion
+//tercera modificacion
 session_start();
     $_SESSION = array();
     session_destroy();
