@@ -2,8 +2,8 @@
 	
 	include_once "head.php";
 	include_once "menu2.0.php";
-?> 
-    
+?>
+
     <script type="text/javascript" charset="utf-8">
         $(window).load(function() {
 			$('.flexslider').flexslider({
@@ -36,4 +36,4 @@
 </body>
 <?php
 	include_once "foot.php";
-?> 
+?>
