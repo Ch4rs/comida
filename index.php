@@ -1,6 +1,6 @@
 <?php
 	
-	//include_once "head.php";
+	include_once "head.php";
 	include_once "menu2.0.php";
 ?> 
     
